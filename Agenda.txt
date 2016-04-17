@@ -1,0 +1,24 @@
+First Half : Css with Wailey Book & CSS Jump start 
+- Libraries & Framwork jumpstart using html and css .
+
+- Second Half : VS 2013 with blend on Windows 8 /8.1 using HTML5
+
+Last : End with VS 2013 DEMO 
+
+_________________________________________________________________
+FIRST HALF SESSION :
+
+What is HTML5 ? in world-market
+
+Frameworks (HTML5)
+
+jQuery : What is jquery ?
+jQuery Mobile :What is jQuery Mobile ?
+D3.js : What is D3.js ? 
+PhoneJS : What is PhoneJS ?
+
+Semantic UI for Web :  http://semantic-ui.com/:
+Winjs :                http://msdn.microsoft.com/en-us/windows/dn632015
+Phonejs :              http://js.devexpress.com/
+
+COMPARASION WITH WEB VS MOB (FRAMEWORK)
